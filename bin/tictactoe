@@ -1,6 +1,11 @@
 #!/usr/bin/env ruby
+<<<<<<< HEAD
 #require_relative '../lib'
 # Dir["../lib/*.rb"].each {|file| require file }
+=======
+# require_relative '../lib'
+Dir["../lib/*.rb"].each {|file| require file }
+>>>>>>> a3425e07916f01c190eb81388c1c24b99173f31a
 
 
 

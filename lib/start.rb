@@ -33,4 +33,9 @@ def game_start
 end
 
 
-game_start until gets.strip == "n"
+# game_start until gets.strip == "n"
+
+
+
+game_start unless gets.strip == "n"
+
